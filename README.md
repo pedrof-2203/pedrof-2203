@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **pedroantoniofpa22@gmail.com**
+- 📫 How to reach me **dev.paferreira@gmail.com**
 
 - ⚡ Fun fact **I am currently learning french!**
 
