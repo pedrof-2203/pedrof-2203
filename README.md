@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">Full-Stack Developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Countries & Capitals 🌎**
+- 🔭 I’m currently working on **web development**
 
 - 🌱 I’m currently learning **Laravel**
 
